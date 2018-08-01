@@ -1,0 +1,1 @@
+(можно использовать MySQL, PostgreSQL, SQLite);
